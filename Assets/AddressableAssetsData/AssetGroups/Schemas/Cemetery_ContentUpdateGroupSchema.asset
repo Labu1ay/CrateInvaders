@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5834b5087d578d24c926ce20cd31e6d6, type: 3}
   m_Name: Cemetery_ContentUpdateGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: eac3472ba734ec94781a3cea6aabc419, type: 2}
+  m_Group: {fileID: 11400000, guid: 8b15dc7b7a99bc74fb1696f5effd5b3d, type: 2}
   m_StaticContent: 0

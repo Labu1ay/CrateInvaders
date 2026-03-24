@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Church
   m_Data:
     m_SerializedData: []
-  m_GUID: c8eed279f9563a946b217efa3a08e6cd
+  m_GUID: aa43444c0014bc947b25f1df806606ae
   m_SerializeEntries:
   - m_GUID: cad19f1ab48339540b5796741aa37f7a
     m_Address: Church
@@ -31,5 +31,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 24261659411d25b4a875f353f307cdab, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: e7970187157896444ade8825feb79220, type: 2}
-    - {fileID: 11400000, guid: e0e8ce64b8fe66e4ba20436a14d7110c, type: 2}
+    - {fileID: 11400000, guid: 49f8289193a08fa48b4bedb21f67c32c, type: 2}
+    - {fileID: 11400000, guid: 632d5460f4e948c4b9cc7a009a7694ae, type: 2}
